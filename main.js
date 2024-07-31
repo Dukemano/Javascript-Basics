@@ -2,7 +2,7 @@
 
 // 1. Create variables of different data types
 const stringVar = "Hello, World!";
-const numberVar = 42;
+const numberVar = 50;
 const booleanVar = true;
 const nullVar = null;
 const undefinedVar = undefined;
